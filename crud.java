@@ -175,3 +175,5 @@ public class KoneksiDb {
 		});
 		tblHapus.setBounds(51, 359, 89, 23);
         frmFormDataBarang.getContentPane().add(tblHapus);
+		
+		.,
